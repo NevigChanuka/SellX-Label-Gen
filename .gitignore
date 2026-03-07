@@ -1,0 +1,6 @@
+__pycache__
+build
+dist
+temp_label.html
+main.spec
+.venv
