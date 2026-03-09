@@ -4,3 +4,4 @@ dist
 temp_label.html
 main.spec
 .venv
+labels.db
